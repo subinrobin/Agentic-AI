@@ -67,7 +67,3 @@ Run tests using `pytest`:
 ```bash
 pytest
 ```
-
-## 📄 License
-
-[License details go here]
